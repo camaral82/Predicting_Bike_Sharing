@@ -1,6 +1,12 @@
 # Predicting_Bike_Sharing
 
 In this project I will build a 3 different models to predict the number of bikes rented in an hour as a function of the weather, the type of day (holiday, working day, or weekend), and the time of day. 
+
+Regression models used:
+* Quasipoisson
+* Random Forests
+* Gradient Boost
+
 I will train the model on data from the month of July, and test on data from the month of August.
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset 
